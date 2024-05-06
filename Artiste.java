@@ -1,8 +1,9 @@
 package project;
-/*I known it can be coded more easily with Classes and Methods but my teacher told me not to use those, so sry for the fonction fest*/
+/*I known it can be coded more easily with Classes and Methods but my teacher told me not to use those, so sry for the fonction fest
+Made by hhhhhaaasss and Gabriwar*/
 public class Artiste {
 
-//fait par Romano Castro Caio, ?? Mathis, ?? Kamil
+
 public static void main(String[] args) {
 	
 	//Initialisation des de, pr et po des joueurs
