@@ -1,5 +1,5 @@
 package project;
-
+/*I known it can be coded more easily with Classes and Methods but my teacher told me not to use those, so sry for the fonction fest*/
 public class Artiste {
 
 //fait par Romano Castro Caio, ?? Mathis, ?? Kamil
